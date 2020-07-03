@@ -1,16 +1,14 @@
 # flutter_bloc_tutorial
 
-A new Flutter project.
+In this video, I've tried to show how can one use flutter_bloc and bloc packages together to create a highly readable and scalable codebase.
 
-## Getting Started
+## Content:
+ - You will learn how to handle cart using BLoC pattern.
+ - How can we use Provider to access BloCs anywhere in the app using context
+ - How to use events and states to manage the app state.
 
-This project is a starting point for a Flutter application.
+## Video : https://youtu.be/MHoRl4EYTM0
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Packages:
+- https://pub.dev/packages/bloc
+- https://pub.dev/packages/flutter_bloc
